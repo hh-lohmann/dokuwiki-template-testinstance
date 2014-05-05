@@ -3,7 +3,7 @@ dokuwiki-template-testinstance
 
 Template (Theme) for DokuWiki for simple marking a Wiki as a test instance
 
-See https://www.dokuwiki.org/template:dokuwiki for details
+See http://www.dokuwiki.org/template:binkytestinstance for details
 
 
 Variant of DokuWiki's original Binky default theme, see https://github.com/splitbrain/dokuwiki for correspoding copyrights.
