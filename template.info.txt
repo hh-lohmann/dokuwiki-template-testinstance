@@ -1,7 +1,7 @@
-base     dokuwiki
-author   Anika Henke
-email    anika@selfthinker.org
-date     2013-05-02
-name     DokuWiki Template
-desc     DokuWiki's default template since 2012
-url      http://www.dokuwiki.org/template:dokuwiki
+base     binkytestinstance
+author   hh.lohmann
+email    hh.lohmann@yahoo.de
+date     2014-05-05
+name     Binky Test Instance Template
+desc     Slight modification of Anika Henke's original / default DokuWiki Template
+url      https://www.dokuwiki.org/template:binkytestinstance
