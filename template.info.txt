@@ -1,7 +1,7 @@
 base     binkytestinstance
 author   hh.lohmann
 email    hh.lohmann@yahoo.de
-date     2014-05-23
+date     2014-05-24
 name     Binky Test Instance Template
 desc     Slight modification of Anika Henke's original / default DokuWiki Template
 url      https://www.dokuwiki.org/template:binkytestinstance
